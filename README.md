@@ -18,3 +18,5 @@ this is my personal collection of notes ✏️, references 📑 and exercises �
     - [rust.vim](https://github.com/rust-lang/rust.vim)
     - [rustaceanvim](https://github.com/mrcjkb/rustaceanvim)
     - [rust-analyzer](https://rust-analyzer.github.io/)
+    - [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
+    - [workspaces.nvim](https://github.com/natecraddock/workspaces.nvim)
